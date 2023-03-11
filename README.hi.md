@@ -65,16 +65,16 @@ jobs:
 
 आप निम्न विकल्पों के साथ कार्रवाई को और कॉन्फ़िगर कर सकते हैं:
 
--   `LANG`: The language you want to translate your readme to. The default is Simplified Chinese. (I'm a Ghanaian) The supported languages can be found below.
-    (default: `zh-CH`) (आवश्यक:`false`)
+-   `LANG`: वह भाषा जिसमें आप अपने रीडमी का अनुवाद करना चाहते हैं। डिफ़ॉल्ट सरलीकृत चीनी है। (मैं घाना का हूं) समर्थित भाषाएं नीचे पाई जा सकती हैं।
+    (गलती करना:`zh-CH`) (आवश्यक:`false`)
 
 ## समर्थित भाषाएँ
 
 समर्थित भाषाएँ यहाँ पाई जा सकती हैं[हत्तपः://क्लाउड.गूगल.कॉम/ट्रांसलेट/डॉक्स/लैंग्वेजेज](https://cloud.google.com/translate/docs/languages)
 
-### मुद्दे
+### समस्याएँ
 
-जांच[यहां](https://github.com/dephraiim/translate-readme/issues/1)इस कार्रवाई से संबंधित मुद्दों के लिए।
+जाँच करना[यहाँ](https://github.com/dephraiim/translate-readme/issues/1)इस कार्रवाई से संबंधित मुद्दों के लिए।
 
 ### विकास
 
