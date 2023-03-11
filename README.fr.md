@@ -11,11 +11,11 @@
 
 **GitHub Action pour traduire Readme dans n'importe quelle langue**
 
-This is a GitHub Action that automatically translate the readme in your repo to a specified language.
+Il s'agit d'une action GitHub qui traduit automatiquement le fichier readme de votre référentiel dans une langue spécifiée.
 
 _Une soumission pour le[DEV : Actions GitHub pour l'Open Source !](https://dev.to/devteam/announcing-the-github-actions-hackathon-on-dev-3ljn)hackathon_
 
-## Installer
+## Setup
 
 1.  **Ajouter un fichier de flux de travail**à votre projet (ex.`.github/workflows/readme.yml`):
 
@@ -72,7 +72,7 @@ Vous pouvez configurer davantage l'action avec les options suivantes :
 
 Les langues prises en charge peuvent être trouvées ici<https://cloud.google.com/translate/docs/languages>
 
-### Problèmes
+### Questions
 
 Vérifier[ici](https://github.com/dephraiim/translate-readme/issues/1)pour les problèmes liés à cette action.
 
