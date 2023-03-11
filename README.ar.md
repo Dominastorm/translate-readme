@@ -13,9 +13,9 @@
 
 هذا إجراء GitHub يقوم تلقائيًا بترجمة الملف التمهيدي في الريبو الخاص بك إلى لغة محددة.
 
-_تقديم ل[DEV: إجراءات جيثب للمصدر المفتوح!](https://dev.to/devteam/announcing-the-github-actions-hackathon-on-dev-3ljn)هاكاثون_
+_A submission for the [DEV: إجراءات جيثب للمصدر المفتوح!](https://dev.to/devteam/announcing-the-github-actions-hackathon-on-dev-3ljn)هاكاثون_
 
-## اقامة
+## يثبت
 
 1.  **أضف ملف سير عمل**لمشروعك (على سبيل المثال`.github/workflows/readme.yml`):
 
@@ -59,18 +59,18 @@ jobs:
           LANG: fr
 ```
 
-## ترتيب
+## إعدادات
 
 ### خيارات
 
 يمكنك تكوين الإجراء بشكل أكبر باستخدام الخيارات التالية:
 
--   `LANG`: The language you want to translate your readme to. The default is Simplified Chinese. (I'm a Ghanaian) The supported languages can be found below.
-    (default: `zh-CH`) (مطلوب:`false`)
+-   `LANG`: اللغة التي تريد ترجمة الملف التمهيدي إليها. الافتراضي هو الصينية المبسطة. (أنا غاني) يمكن العثور على اللغات المدعومة أدناه.
+    (تقصير:`zh-CH`) (مطلوب:`false`)
 
 ## اللغات المعتمدة
 
-يمكن العثور على اللغات المدعومة هنا[هتبس://كلود.جوجل.كوم/ترانسلت/دكس/لانججس](https://cloud.google.com/translate/docs/languages)
+يمكن العثور على اللغات المدعومة هنا[هتبص://كلود.جوجل.كوم/ترانسلت/دكس/لانججص](https://cloud.google.com/translate/docs/languages)
 
 ### مشاكل
 
