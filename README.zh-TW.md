@@ -9,7 +9,7 @@
 -   [法語](README.fr.md)
 -   [阿拉伯](README.ar.md)
 
-**GitHub Action 將自述文件翻譯成任何語言**
+**GitHub Action to translate Readme to any language**
 
 這是一個 GitHub Action，可以自動將你的 repo 中的自述文件翻譯成指定的語言。
 
