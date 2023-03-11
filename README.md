@@ -82,4 +82,4 @@ Suggestions and contributions are always welcome!
 
 [MIT](./LICENSE)
 
-Test
+Testing
