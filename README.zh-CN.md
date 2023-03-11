@@ -13,7 +13,7 @@
 
 这是一个 GitHub Action，可以自动将你的 repo 中的自述文件翻译成指定的语言。
 
-_提交的[DEV：GitHub 开源行动！](https://dev.to/devteam/announcing-the-github-actions-hackathon-on-dev-3ljn)编程马拉松_
+_提交的[DEV：GitHub 开源行动！](https://dev.to/devteam/announcing-the-github-actions-hackathon-on-dev-3ljn)黑客马拉松_
 
 ## 设置
 
@@ -78,7 +78,7 @@ jobs:
 
 ### 发展
 
-随时欢迎提出建议和贡献！
+Suggestions and contributions are always welcome!
 
 ### 执照
 
